@@ -3,13 +3,12 @@
 ## CV
 
 ### 1. Полное имя
-110901 Олег Турельский Викторович
+110901 Свороб Анастасия Вячеславовна
 
 ### 2. Как со мной связаться?
-Email: o.turelskiy@mail.ru
-
+Email: nastyasvorob@gmil.com
 ### 3. Обо мне
-*Я хочу много денег. Люблю мороженое.*
+*I am a ux|ui designer with graphics and interface skills, proficient in Figma and Photoshop*
 
 **Не люблю работу**
 
@@ -22,7 +21,7 @@ Email: o.turelskiy@mail.ru
 Html       |   100 
 Googling   |   1
 
-[https://unrivaled-tartufo-d0cc5e.netlify.app/](адрес "Ссылки на мои любимки по ПИСС и ЭВТ")
+
 
 ```
 namespace HelloWorld
